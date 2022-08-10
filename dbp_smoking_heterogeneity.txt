@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+4lrQeU	B5CrKR	Smoking initiation	Diastolic blood pressure	MR Egger	206.47	62.00	0.00
+4lrQeU	B5CrKR	Smoking initiation	Diastolic blood pressure	Inverse variance weighted	207.72	63.00	0.00

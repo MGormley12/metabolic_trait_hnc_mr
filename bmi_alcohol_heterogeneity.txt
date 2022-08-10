@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval	
+WrFbNW	KwTVNS	Alcohol drinks per week	Body Mass Index	MR Egger	928.23	272.00	0.00	
+WrFbNW	KwTVNS	Alcohol drinks per week	Body Mass Index	Inverse variance weighted	952.47	273.00	0.00	

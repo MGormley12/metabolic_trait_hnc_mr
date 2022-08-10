@@ -1,0 +1,5 @@
+or_results$outcome	or_results$nsnp	or_results$method	or_results$b	or_results$se	or_results$or	or_results$or_lci95	or_results$or_uci95	or_results$pval
+Risk tolerance	227	MR Egger	0.01	0.03	1.01	0.95	1.06	0.81
+Risk tolerance	227	Weighted median	0.03	0.02	1.03	1.00	1.06	0.03
+Risk tolerance	227	Inverse variance weighted	0.04	0.01	1.04	1.02	1.06	0.00
+Risk tolerance	227	Weighted mode	-0.05	0.04	0.95	0.87	1.04	0.25

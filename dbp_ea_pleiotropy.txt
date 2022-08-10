@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval	
+1	eqbmRa	0V3Av8	Educational attainment	Diastolic blood pressure	-0.002875721	0.001522828	0.062999828

@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+YLCgqT	JbgZA7	Educational attainment	Body Mass Index	-0.003236115	0.000670944	2.26E-06

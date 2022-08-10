@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+BosDAB	hxjcOG	Risk tolerance	Diastolic blood pressure	-0.002162525	0.001158166	0.065888995

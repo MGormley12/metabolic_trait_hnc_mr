@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+WrFbNW	KwTVNS	Alcohol drinks per week	Body Mass Index	0.001556721	0.000584112	0.008156515

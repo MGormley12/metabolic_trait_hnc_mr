@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+I8F99P	r7zXbr	Smoking initiation	Body Mass Index	0.002758218	0.001126381	0.014969502

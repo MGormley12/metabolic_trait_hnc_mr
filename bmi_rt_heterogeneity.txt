@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+P51FYM	UQUwFG	Risk tolerance	Body Mass Index	MR Egger	817.38	299.00	0.00
+P51FYM	UQUwFG	Risk tolerance	Body Mass Index	Inverse variance weighted	831.50	300.00	0.00

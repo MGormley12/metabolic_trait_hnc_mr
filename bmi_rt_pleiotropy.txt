@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+P51FYM	UQUwFG	Risk tolerance	Body Mass Index	0.001257829	0.000553464	0.023756958

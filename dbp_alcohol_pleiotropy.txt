@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+68VoHN	veR855	Alcohol drinks per week	Diastolic blood pressure	0.000564207	0.001613434	0.727754245

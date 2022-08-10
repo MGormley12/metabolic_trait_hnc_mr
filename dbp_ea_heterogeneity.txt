@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+eqbmRa	0V3Av8	Educational attainment	Diastolic blood pressure	MR Egger	293.92	72.00	0.00
+eqbmRa	0V3Av8	Educational attainment	Diastolic blood pressure	Inverse variance weighted	308.47	73.00	0.00

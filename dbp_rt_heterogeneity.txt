@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval	
+BosDAB	hxjcOG	Risk tolerance	Diastolic blood pressure	MR Egger	114.97	73.00	0.00	
+BosDAB	hxjcOG	Risk tolerance	Diastolic blood pressure	Inverse variance weighted	120.47	74.00	0.00	

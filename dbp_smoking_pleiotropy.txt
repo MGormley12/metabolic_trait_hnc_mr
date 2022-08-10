@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+4lrQeU	B5CrKR	Smoking initiation	Diastolic blood pressure	-0.001794484	0.002927119	0.54208264
