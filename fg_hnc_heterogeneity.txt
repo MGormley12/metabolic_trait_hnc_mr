@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+GPfZzQ	8LpKoD	Oral and oropharyngeal cancer	Fasting glucose	MR Egger	23.98256424	26	0.576962293
+GPfZzQ	8LpKoD	Oral and oropharyngeal cancer	Fasting glucose	Inverse variance weighted	23.9990562	27	0.630368446

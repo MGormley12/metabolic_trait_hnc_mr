@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+GPfZzQ	8LpKoD	Oral and oropharyngeal cancer	Fasting glucose	-0.001396499	0.010874381	0.898804003

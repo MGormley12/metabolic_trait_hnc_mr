@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+DiU28S	auPXn3	Oral and oropharyngeal cancer	Fasting insulin	0.032316921	0.042275525	0.45646572

@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+4bZH0f	K1O4Xp	Oral cancer	Diastolic blood pressure	MR Egger	64	-0.032990427	0.140101084	0.967547822	0.73521776	1.273294579	0.814615466
+4bZH0f	K1O4Xp	Oral cancer	Diastolic blood pressure	Weighted median	64	-0.042607026	0.056257529	0.958287898	0.858239756	1.069999017	0.448836081
+4bZH0f	K1O4Xp	Oral cancer	Diastolic blood pressure	Inverse variance weighted	64	-0.050439614	0.045223376	0.950811343	0.870160648	1.038937134	0.264703112
+4bZH0f	K1O4Xp	Oral cancer	Diastolic blood pressure	Weighted mode	64	0.156847	0.14531013	1.169816618	0.879887822	1.555278849	0.284526961

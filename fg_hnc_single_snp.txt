@@ -1,0 +1,31 @@
+"exposure" "outcome" "id.exposure" "id.outcome" "samplesize" "SNP" "b" "se" "p"
+"1" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs10747083" 3.25981844594595 2.01146087837838 0.10509865698091
+"2" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs10811661" 0.567718853211009 1.51138711009174 0.707193700033274
+"3" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs10885122" 0.455037362637363 1.36401186813187 0.738679756478392
+"4" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs11071657" 0.660962147651007 1.77812228187919 0.710101946840302
+"5" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs11558471" -1.80740302583026 1.09046586715867 0.0974266077488615
+"6" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs11603334" -1.53413090452261 1.92397683417085 0.425233311418688
+"7" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs11619319" -1.21882822222222 1.73194394444444 0.481598304869011
+"8" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs11708067" -0.975903903508772 1.38551986842105 0.481209001005157
+"9" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs11715915" 2.04096315315315 2.56497693693694 0.426203932612831
+"10" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs16913693" 1.85411084474886 1.6296304109589 0.255225184729039
+"11" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs174550" 2.77051929347826 1.56155559782609 0.0760292957515356
+"12" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs17762454" -1.440323 2.9689689 0.627587210412917
+"13" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs2191349" -0.857395539033457 0.973136765799257 0.37828331013818
+"14" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs2657879" -0.109156454545455 2.81013254545455 0.969014859136671
+"15" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs340874" -0.659452993630573 1.64820968152866 0.689080942726003
+"16" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs3783347" 0.178839821428571 1.8149118452381 0.921504207501012
+"17" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs3829109" 0.775828300653595 1.90481895424837 0.683789382048975
+"18" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs4607517" -0.0390279491525424 0.541917762711864 0.942587413184058
+"19" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs4869272" -0.326656091954023 1.54533293103448 0.832588935585292
+"20" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs560887" 0.179626574746009 0.419275108853411 0.668344094291665
+"21" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs6072275" 1.32371833333333 2.08428959770115 0.525367574486643
+"22" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs6113722" 2.6132308815427 1.68406710743802 0.120724932504958
+"23" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs6943153" 1.19032188311688 1.83771753246753 0.517167656194369
+"24" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs7651090" -2.39515630252101 2.35079403361344 0.308264125200998
+"25" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs7708285" -0.269865675675676 2.51833072072072 0.914661620973361
+"26" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs780094" 0.978895357142857 0.884384675324675 0.268351853527306
+"27" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs9368222" -1.1646637037037 2.17021385185185 0.591503529286172
+"28" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "rs983309" -2.99440662116041 1.45593726962457 0.0397163853749424
+"29" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "All - Inverse variance weighted" 0.0615363069735587 0.22716314453933 0.786475356240602
+"30" "Fasting glucose" "Oral and oropharyngeal cancer" "GPfZzQ" "8LpKoD" NA "All - MR Egger" 0.107596311393122 0.42455033325643 0.801924659501583

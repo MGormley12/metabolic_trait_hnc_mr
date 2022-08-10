@@ -1,0 +1,5 @@
+or_results$outcome	or_results$nsnp	or_results$method	or_results$b	or_results$se	or_results$or	or_results$or_lci95	or_results$or_uci95	or_results$pval
+Oral and oropharyngeal cancer	33	IVW	-0.55	0.29	0.58	0.33	1.01	0.05
+Oral and oropharyngeal cancer	33	MR Egger	-0.75	0.51	0.47	0.17	1.3	0.16
+Oral and oropharyngeal cancer	33	Weighted median	-0.65	0.43	0.52	0.23	1.22	0.13
+Oral and oropharyngeal cancer	33	Weighted mode	-0.63	0.45	0.53	0.22	1.29	0.17

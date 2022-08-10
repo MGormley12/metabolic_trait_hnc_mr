@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+pdK0GJ	dF205T	Oropharyngeal cancer	Fasting insulin	MR Egger	17	-2.409049927	3.111706687	0.089900666	0.000201848	40.0406497	0.450849806
+pdK0GJ	dF205T	Oropharyngeal cancer	Fasting insulin	Weighted median	17	-0.421952795	0.879295303	0.655764994	0.117024544	3.674679798	0.631315502
+pdK0GJ	dF205T	Oropharyngeal cancer	Fasting insulin	Inverse variance weighted	17	-0.392160159	0.736601241	0.675595902	0.159470139	2.862164833	0.594454947
+pdK0GJ	dF205T	Oropharyngeal cancer	Fasting insulin	Weighted mode	17	-0.732673436	1.194278519	0.480622358	0.046260846	4.993377136	0.548178014

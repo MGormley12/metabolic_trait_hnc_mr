@@ -1,0 +1,40 @@
+"exposure" "outcome" "id.exposure" "id.outcome" "samplesize" "SNP" "b" "se" "p"
+"1" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs1046896" -1.45048867857143 1.00903517857143 0.150575801348674
+"2" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs10774625" 6.13284833333333 3.08526888888889 0.0468355768464269
+"3" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs11248914" -4.54513285714286 1.98329792857143 0.0219226985576639
+"4" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs11558471" -3.2653748 1.97010833333333 0.0974266077488615
+"5" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs11603334" -2.54410041666667 3.19059491666667 0.425233311418688
+"6" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs11619319" -2.43765644444444 3.46388788888889 0.481598304869011
+"7" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs11708067" -1.71158530769231 2.42998869230769 0.481209001005157
+"8" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs11964178" 2.4395157 2.6675302 0.360442495973067
+"9" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs12621844" -1.0151351 2.6510735 0.701782987462078
+"10" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs13134327" 1.27400676923077 2.12402307692308 0.548633970312652
+"11" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs1467311" -1.96038166666667 3.15492711111111 0.53435524542275
+"12" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs174577" 4.75168025 3.46290475 0.170011758968486
+"13" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs17509001" -1.34390216666667 2.0738615 0.516972502007107
+"14" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs17533903" -0.616172066666667 2.15845346666667 0.775284668726321
+"15" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs17747324" -4.87389813333333 2.16098266666667 0.0241077154180051
+"16" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs1800562" -0.917939575 1.5089148 0.542959208145327
+"17" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs2191349" -2.56266 2.90859766666667 0.37828331013818
+"18" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs2375278" 0.417222909090909 3.037757 0.890757536943233
+"19" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs2383208" -0.405986857142857 2.2288395 0.8554636930783
+"20" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs267738" -1.35351018181818 3.02288845454545 0.654330796409883
+"21" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs282587" -1.52505831578947 2.03799384210526 0.454271080288099
+"22" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs3782123" -0.455190307692308 2.12011123076923 0.830000330214188
+"23" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs4607517" -0.074279 1.03139187096774 0.942587413184058
+"24" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs4737009" -1.71627480952381 1.42057938095238 0.226989074651037
+"25" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs4745982" -0.668821273684211 0.56950412631579 0.240237918952873
+"26" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs4783565" 11.0033914444444 3.43659055555556 0.00136555809100398
+"27" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs4820268" -0.4768141875 1.5831916875 0.763282771324933
+"28" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs560887" 0.442009678571429 1.03171625 0.668344094291665
+"29" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs579459" 2.77538227272727 2.90976872727273 0.340177083969024
+"30" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs592423" 3.40726822222222 2.96541711111111 0.250555429799987
+"31" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs6474359" -0.239641227272727 1.33116722727273 0.857134211298001
+"32" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs7616006" -1.202738 2.6390816 0.648576150103786
+"33" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs8192675" -2.34229163636364 2.58251981818182 0.364417821740705
+"34" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs837763" -0.293384823529412 1.46817717647059 0.841614082137263
+"35" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs857691" 0.508066157894737 1.50605657894737 0.735854087337173
+"36" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs9818758" 1.97637725 2.88026591666667 0.492600399804445
+"37" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "rs9914988" -1.74266853846154 2.43024423076923 0.47332752690917
+"38" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "All - Inverse variance weighted" -0.572752582117617 0.294188858649256 0.0515482355616337
+"39" "Glycated haemoglobin" "Oral and oropharyngeal cancer" "5BU4SZ" "6w4dEU" NA "All - MR Egger" -1.00575863847307 0.537579535349117 0.0697382420922945

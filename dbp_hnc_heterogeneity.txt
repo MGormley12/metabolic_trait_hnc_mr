@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+wWJ9EI	NcEcx5	Oral and oropharyngeal cancer	Diastolic blood pressure	MR Egger	95.22258068	62	0.004263742
+wWJ9EI	NcEcx5	Oral and oropharyngeal cancer	Diastolic blood pressure	Inverse variance weighted	95.81817366	63	0.004837177

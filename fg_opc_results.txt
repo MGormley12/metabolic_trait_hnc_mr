@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+SSgbIP	4jN9IB	Oropharyngeal cancer	Fasting glucose	MR Egger	28	0.318918359	0.566426834	1.375639012	0.453265045	4.175002484	0.578234308
+SSgbIP	4jN9IB	Oropharyngeal cancer	Fasting glucose	Weighted median	28	0.218315091	0.453930457	1.243978973	0.51099851	3.028352633	0.63055636
+SSgbIP	4jN9IB	Oropharyngeal cancer	Fasting glucose	Inverse variance weighted	28	0.327702838	0.303151266	1.387776517	0.766076196	2.514010581	0.279702513
+SSgbIP	4jN9IB	Oropharyngeal cancer	Fasting glucose	Weighted mode	28	0.3108223	0.431877631	1.364546719	0.58528413	3.181339889	0.477893849

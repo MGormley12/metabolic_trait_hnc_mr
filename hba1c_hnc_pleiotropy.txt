@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+5BU4SZ	6w4dEU	Oral and oropharyngeal cancer	Glycated haemoglobin	0.009340188	0.009701212	0.342260185

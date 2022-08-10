@@ -1,0 +1,19 @@
+Main.MR.results.Exposure	Main.MR.results.MR.Analysis	Main.MR.results.Causal.Estimate	Main.MR.results.Sd	Main.MR.results.T.stat	Main.MR.results.P.value	MR.PRESSO.results.Global.Test.RSSobs	MR.PRESSO.results.Global.Test.Pvalue	MR.PRESSO.results.Outlier.Test.RSSobs	MR.PRESSO.results.Outlier.Test.Pvalue	MR.PRESSO.results.Distortion.Test.Outliers.Indices	MR.PRESSO.results.Distortion.Test.Distortion.Coefficient	MR.PRESSO.results.Distortion.Test.Pvalue
+beta.exposure	Raw	-0.112992027	0.633291357	-0.178420289	0.860501874	38.87222902	0.008	1.42E-05	1	No significant outliers	NA	NA
+beta.exposure	Outlier-corrected	NA	NA	NA	NA	38.87222902	0.008	0.005158505	0.234	No significant outliers	NA	NA
+beta.exposure	Raw	-0.112992027	0.633291357	-0.178420289	0.860501874	38.87222902	0.008	0.003169332	0.792	No significant outliers	NA	NA
+beta.exposure	Outlier-corrected	NA	NA	NA	NA	38.87222902	0.008	0.000276803	1	No significant outliers	NA	NA
+beta.exposure	Raw	-0.112992027	0.633291357	-0.178420289	0.860501874	38.87222902	0.008	1.09E-05	1	No significant outliers	NA	NA
+beta.exposure	Outlier-corrected	NA	NA	NA	NA	38.87222902	0.008	0.001100088	1	No significant outliers	NA	NA
+beta.exposure	Raw	-0.112992027	0.633291357	-0.178420289	0.860501874	38.87222902	0.008	0.000174067	1	No significant outliers	NA	NA
+beta.exposure	Outlier-corrected	NA	NA	NA	NA	38.87222902	0.008	0.006447446	0.414	No significant outliers	NA	NA
+beta.exposure	Raw	-0.112992027	0.633291357	-0.178420289	0.860501874	38.87222902	0.008	0.003663087	0.36	No significant outliers	NA	NA
+beta.exposure	Outlier-corrected	NA	NA	NA	NA	38.87222902	0.008	0.000479052	1	No significant outliers	NA	NA
+beta.exposure	Raw	-0.112992027	0.633291357	-0.178420289	0.860501874	38.87222902	0.008	4.33E-06	1	No significant outliers	NA	NA
+beta.exposure	Outlier-corrected	NA	NA	NA	NA	38.87222902	0.008	0.001255086	1	No significant outliers	NA	NA
+beta.exposure	Raw	-0.112992027	0.633291357	-0.178420289	0.860501874	38.87222902	0.008	1.72E-08	1	No significant outliers	NA	NA
+beta.exposure	Outlier-corrected	NA	NA	NA	NA	38.87222902	0.008	0.002202933	1	No significant outliers	NA	NA
+beta.exposure	Raw	-0.112992027	0.633291357	-0.178420289	0.860501874	38.87222902	0.008	0.001292971	1	No significant outliers	NA	NA
+beta.exposure	Outlier-corrected	NA	NA	NA	NA	38.87222902	0.008	0.001147167	1	No significant outliers	NA	NA
+beta.exposure	Raw	-0.112992027	0.633291357	-0.178420289	0.860501874	38.87222902	0.008	0.008597716	0.648	No significant outliers	NA	NA
+beta.exposure	Outlier-corrected	NA	NA	NA	NA	38.87222902	0.008	0.002137603	1	No significant outliers	NA	NA

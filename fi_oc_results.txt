@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+OY9LyI	egw8ZZ	Oral cancer	Fasting insulin	MR Egger	17	-1.545354793	3.173551676	0.213236203	0.000424111	107.2118187	0.63333398
+OY9LyI	egw8ZZ	Oral cancer	Fasting insulin	Weighted median	17	-0.77085381	0.85474854	0.462617912	0.086625509	2.470580954	0.367137276
+OY9LyI	egw8ZZ	Oral cancer	Fasting insulin	Inverse variance weighted	17	-0.03781007	0.747151307	0.962895806	0.222633884	4.164542775	0.959639769
+OY9LyI	egw8ZZ	Oral cancer	Fasting insulin	Weighted mode	17	-0.798568529	1.910223643	0.449972626	0.010645619	19.01959592	0.681467545

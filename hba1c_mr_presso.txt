@@ -1,0 +1,3 @@
+Main.MR.results.Exposure	Main.MR.results.MR.Analysis	Main.MR.results.Causal.Estimate	Main.MR.results.Sd	Main.MR.results.T.stat	Main.MR.results.P.value	MR.PRESSO.results.Global.Test.RSSobs	MR.PRESSO.results.Global.Test.Pvalue
+beta.exposure	Raw	-0.572752582	0.294188859	-1.9468874	0.059383031	41.66304551	0.333
+beta.exposure	Outlier-corrected	NA	NA	NA	NA	41.66304551	0.333

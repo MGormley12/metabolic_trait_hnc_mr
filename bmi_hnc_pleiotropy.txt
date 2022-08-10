@@ -1,0 +1,2 @@
+"id.exposure" "id.outcome" "outcome" "exposure" "egger_intercept" "se" "pval"
+"1" "hRMkq6" "zLc7p5" "Oral and oropharyngeal cancer" "Body Mass Index" 0.0045999777978456 0.00386304461013806 0.234404352061723

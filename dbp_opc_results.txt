@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+1w9YNy	nwIeZy	Oropharyngeal cancer	Diastolic blood pressure	MR Egger	64	-0.011773266	0.138143916	0.988295767	0.753869999	1.295619305	0.932357409
+1w9YNy	nwIeZy	Oropharyngeal cancer	Diastolic blood pressure	Weighted median	64	-0.060893406	0.058071188	0.940923531	0.839698035	1.054351749	0.294362585
+1w9YNy	nwIeZy	Oropharyngeal cancer	Diastolic blood pressure	Inverse variance weighted	64	-0.08781307	0.045575017	0.915932076	0.837662417	1.001515111	0.05400695
+1w9YNy	nwIeZy	Oropharyngeal cancer	Diastolic blood pressure	Weighted mode	64	0.094535266	0.125507188	1.099147925	0.859453272	1.405691502	0.454119851

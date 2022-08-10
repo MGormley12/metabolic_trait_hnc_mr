@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+aiStFW	X8BySK	Oral cancer	Fasting glucose	MR Egger	28	0.227006936	0.592212623	1.254838572	0.393084843	4.005801467	0.704598921
+aiStFW	X8BySK	Oral cancer	Fasting glucose	Weighted median	28	0.138022361	0.440272026	1.148001221	0.484367768	2.720880477	0.753905857
+aiStFW	X8BySK	Oral cancer	Fasting glucose	Inverse variance weighted	28	0.050936095	0.307119114	1.052255647	0.576363139	1.921083901	0.868273997
+aiStFW	X8BySK	Oral cancer	Fasting glucose	Weighted mode	28	-0.005119118	0.412144413	0.994893963	0.443560014	2.231522153	0.990181303

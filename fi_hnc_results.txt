@@ -1,0 +1,5 @@
+or_results$outcome	or_results$nsnp	or_results$method	or_results$b	or_results$se	or_results$or	or_results$or_lci95	or_results$or_uci95	or_results$pval
+Oral and oropharyngeal cancer	17	MR Egger	-2.232827835	2.726983602	0.107224787	0.000511729	22.4672799	0.425723785
+Oral and oropharyngeal cancer	17	Weighted median	-0.285170554	0.682749358	0.751886006	0.197235014	2.866289075	0.676181309
+Oral and oropharyngeal cancer	17	Inverse variance weighted	-0.2095001	0.647738987	0.810989559	0.227849829	2.886568175	0.746367416
+Oral and oropharyngeal cancer	17	Weighted mode	-0.504282943	1.471012511	0.603938478	0.033794153	10.79304104	0.736201257

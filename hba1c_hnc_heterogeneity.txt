@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+5BU4SZ	6w4dEU	Oral and oropharyngeal cancer	Glycated haemoglobin	MR Egger	39.35472521	35	0.281178872
+5BU4SZ	6w4dEU	Oral and oropharyngeal cancer	Glycated haemoglobin	Inverse variance weighted	40.39701401	36	0.282177314

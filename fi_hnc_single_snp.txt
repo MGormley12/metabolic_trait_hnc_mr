@@ -1,0 +1,20 @@
+"exposure" "outcome" "id.exposure" "id.outcome" "samplesize" "SNP" "b" "se" "p"
+"1" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs10195252" -0.406913763563678 2.09480141959697 0.845980661896637
+"2" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs1167800" 3.73859003542187 1.60954601939492 0.0201920181771798
+"3" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs1421085" -2.91194226277769 1.53015908967465 0.057036322933582
+"4" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs1530559" -1.47467788014538 2.5007094074888 0.555389236469794
+"5" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs17036328" -0.343780386244526 2.7033216311293 0.898806149364022
+"6" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs2745353" -2.94634828075151 2.34442812832329 0.208845994957277
+"7" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs2820436" 0.674656983812144 1.72058672979717 0.694977917601746
+"8" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs35767" 4.60568416200602 2.12674715751951 0.0303417477774829
+"9" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs3822072" 7.86141528372591 3.574761375803 0.0278676797193694
+"10" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs459193" -1.50399470757687 1.96471695585181 0.443972691584983
+"11" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs4865796" -0.237330302836289 1.71793821627505 0.890123186794221
+"12" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs6912327" -0.121381074514039 1.92537378509719 0.949732372959222
+"13" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs731839" -3.24510625131847 1.9713571478799 0.0997374033728183
+"14" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs780094" 1.55396232347181 1.40392990413359 0.268351853527306
+"15" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs7903146" 1.63593824612295 1.63258412361932 0.316317277889633
+"16" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs983309" -3.07716449214366 1.49617571548822 0.0397163853749424
+"17" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "rs9884482" -3.03613126507639 1.87396890913964 0.105197705454838
+"18" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "All - Inverse variance weighted" -0.209500099639554 0.647738986528469 0.746367415810698
+"19" "Fasting insulin" "Oral and oropharyngeal cancer" "DiU28S" "auPXn3" NA "All - MR Egger" -2.23282783497307 2.72698360169643 0.425723784945142

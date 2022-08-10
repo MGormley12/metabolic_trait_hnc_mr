@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+wWJ9EI	NcEcx5	Oral and oropharyngeal cancer	Diastolic blood pressure	-0.009623074	0.015453013	0.535745002

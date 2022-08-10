@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+mrDmAH	u1wyDA	Oral cancer	Glycated haemoglobin	MR Egger	37	-1.206405626	0.632047772	0.299271041	0.086707121	1.032938866	0.064525002
+mrDmAH	u1wyDA	Oral cancer	Glycated haemoglobin	Weighted median	37	-0.680497541	0.521727444	0.506364992	0.182121118	1.407884536	0.192125804
+mrDmAH	u1wyDA	Oral cancer	Glycated haemoglobin	Inverse variance weighted	37	-0.743699467	0.345092791	0.475352109	0.241694357	0.934898233	0.031156278
+mrDmAH	u1wyDA	Oral cancer	Glycated haemoglobin	Weighted mode	37	-0.81414402	0.545356557	0.44301838	0.152126499	1.290145279	0.144185368
