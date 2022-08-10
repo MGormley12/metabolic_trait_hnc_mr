@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+R7VigS	12T3TW	Smoking initiation	Type 2 diabetes	MR Egger	845.63	253.00	0.00
+R7VigS	12T3TW	Smoking initiation	Type 2 diabetes	Inverse variance weighted	852.86	254.00	0.00

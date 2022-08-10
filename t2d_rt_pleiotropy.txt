@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+7nqxFf	ps7NJw	Risk tolerance	Type 2 diabetes	0.000667337	0.000401482	0.09762758

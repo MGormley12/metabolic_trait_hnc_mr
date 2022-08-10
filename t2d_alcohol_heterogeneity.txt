@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+aBB9bU	zVRCZL	Alcohol drinks per week	Type 2 diabetes	MR Egger	850.76	255.00	0.00
+aBB9bU	zVRCZL	Alcohol drinks per week	Type 2 diabetes	Inverse variance weighted	852.40	256.00	0.00

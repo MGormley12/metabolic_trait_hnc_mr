@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+u1pZTY	n9e0bt	Educational attainment	Type 2 diabetes	-0.002183874	0.000599062	0.0003201

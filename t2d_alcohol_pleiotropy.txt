@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+aBB9bU	zVRCZL	Alcohol drinks per week	Type 2 diabetes	-0.000343357	0.000489791	0.48392527

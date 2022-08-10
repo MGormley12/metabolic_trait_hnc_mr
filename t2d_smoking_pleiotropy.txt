@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+R7VigS	12T3TW	Smoking initiation	Type 2 diabetes	0.001333481	0.000906881	0.14269517

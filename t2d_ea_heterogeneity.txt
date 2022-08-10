@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+u1pZTY	n9e0bt	Educational attainment	Type 2 diabetes	MR Egger	1804.42	270.00	0.00
+u1pZTY	n9e0bt	Educational attainment	Type 2 diabetes	Inverse variance weighted	1893.23	271.00	0.00
