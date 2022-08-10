@@ -1,0 +1,40 @@
+"exposure" "outcome" "id.exposure" "id.outcome" "samplesize" "SNP" "b" "se" "p"
+"1" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs1046896" -0.0158151785714286 0.1376535 0.908531344324536
+"2" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs10774625" -1.91639088888889 0.395321222222222 1.24913508006175e-06
+"3" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs11248914" 0.199064571428571 0.269647142857143 0.460368023405623
+"4" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs11558471" 0.313756533333333 0.253657133333333 0.216112463321243
+"5" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs11603334" -0.597884416666667 0.403093583333333 0.138010729601583
+"6" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs11619319" -0.123484333333333 0.479212111111111 0.796652342037951
+"7" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs11708067" -0.246787769230769 0.323490923076923 0.44552940810772
+"8" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs11964178" -0.1941465 0.3580601 0.587668589276726
+"9" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs12621844" -0.7210894 0.3660777 0.0488645706279063
+"10" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs13134327" -0.327549538461539 0.294148153846154 0.265471029329392
+"11" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs1467311" 0.542541888888889 0.416110666666667 0.192288012273833
+"12" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs174577" 0.103298125 0.463822125 0.82376071528782
+"13" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs17509001" 0.210325388888889 0.284639611111111 0.459956670496787
+"14" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs17533903" 0.0803416666666667 0.290475866666667 0.782097728728697
+"15" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs17747324" 0.5468092 0.284272533333333 0.0544124396077113
+"16" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs1800562" 0.01459515 0.168306025 0.930895724473943
+"17" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs2191349" 0.126559222222222 0.396272333333333 0.749442652508008
+"18" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs2375278" 0.0114072727272727 0.426308272727273 0.978652535391847
+"19" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs2383208" -0.014083 0.348819214285714 0.967795477054326
+"20" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs267738" 0.714646545454546 0.3934 0.0692799004090135
+"21" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs282587" -0.269743105263158 0.282923105263158 0.340379892920082
+"22" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs3782123" 0.121130923076923 0.307672923076923 0.693802317547079
+"23" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs4607517" 0.180194967741935 0.153392129032258 0.240101104217272
+"24" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs4737009" 0.0261479523809524 0.199958333333333 0.895959624987381
+"25" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs4745982" -0.00566564210526316 0.0692168315789474 0.934763186855978
+"26" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs4783565" -1.21509433333333 0.443394222222222 0.00613573747151699
+"27" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs4820268" -0.08459925 0.222938625 0.704336446828715
+"28" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs560887" 0.472135214285714 0.139225071428571 0.000695961423035252
+"29" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs579459" 0.0963990909090909 0.398902363636364 0.809042954751896
+"30" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs592423" -0.653635444444444 0.397055222222222 0.099720962893641
+"31" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs6474359" -0.168154568181818 0.219852159090909 0.444359124996598
+"32" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs7616006" -0.0602678 0.3614624 0.867579943547697
+"33" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs8192675" -0.679057363636364 0.356904636363636 0.0570888800249464
+"34" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs837763" -0.118745588235294 0.210573588235294 0.572812035341674
+"35" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs857691" 0.0439385263157895 0.214398157894737 0.837619848991335
+"36" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs9818758" 0.445261916666667 0.389027166666667 0.252394684378571
+"37" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "rs9914988" 1.56512707692308 0.343176846153846 5.098306906624e-06
+"38" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "All - Inverse variance weighted" 0.0278471890759304 0.0598240388434415 0.641584219916774
+"39" "Glycated haemoglobin" "Smoking initiation" "2XAmJR" "8liILp" NA "All - MR Egger" 0.110683321785211 0.104606754725726 0.297262894334433

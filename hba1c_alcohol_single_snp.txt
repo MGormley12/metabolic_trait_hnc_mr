@@ -1,0 +1,40 @@
+"exposure" "outcome" "id.exposure" "id.outcome" "samplesize" "SNP" "b" "se" "p"
+"1" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs1046896" -0.0102773214285714 0.0747565357142857 0.890653589943943
+"2" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs10774625" -0.0932227777777778 0.214432777777778 0.663750239914599
+"3" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs11248914" 0.1024435 0.146198785714286 0.483481670694615
+"4" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs11558471" -0.2872502 0.1374104 0.0365769843949547
+"5" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs11603334" 0.235737083333333 0.219825916666667 0.283549046629108
+"6" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs11619319" 0.108902777777778 0.259586777777778 0.674833515697725
+"7" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs11708067" 0.118835692307692 0.175787846153846 0.499029418630334
+"8" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs11964178" -0.7345081 0.1942355 0.000155865081297073
+"9" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs12621844" -0.4376722 0.1985322 0.0274863816688163
+"10" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs13134327" -0.0998427692307692 0.159468 0.531249950933852
+"11" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs1467311" 0.436079666666667 0.226096777777778 0.0537643742428137
+"12" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs174577" -0.717590875 0.251825 0.00437795134695514
+"13" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs17509001" -0.335955388888889 0.153984888888889 0.0291285364227123
+"14" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs17533903" 0.2766718 0.158162733333333 0.0802416549667501
+"15" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs17747324" -0.2340612 0.154000933333333 0.128543975761641
+"16" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs1800562" 0.038192575 0.091823925 0.677459234991072
+"17" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs2191349" 0.110075111111111 0.215049555555556 0.608749497124511
+"18" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs2375278" -0.168541272727273 0.231727909090909 0.46702749139265
+"19" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs2383208" -0.277304571428571 0.180128642857143 0.123686983032684
+"20" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs267738" 0.591452181818182 0.21384 0.00567723492285676
+"21" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs282587" -0.0815115789473684 0.154042421052632 0.596701255205135
+"22" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs3782123" 0.185147384615385 0.166941769230769 0.267407022553101
+"23" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs4607517" -0.116246322580645 0.0830330967741936 0.16151336500242
+"24" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs4737009" 0.0427892857142857 0.108336 0.69286628313201
+"25" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs4745982" 0.110649336842105 0.0378412736842105 0.00345522134691269
+"26" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs4783565" -0.479614444444444 0.241015333333333 0.0465937093995698
+"27" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs4820268" 0.2263054375 0.120965375 0.0613688944232458
+"28" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs560887" 0.1128095 0.0755428214285714 0.135353810212769
+"29" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs579459" 0.010955 0.215676454545455 0.959489930021372
+"30" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs592423" -0.214836666666667 0.215484111111111 0.318766744749171
+"31" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs6474359" -0.0198708409090909 0.118963613636364 0.867344138761688
+"32" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs7616006" -0.1567868 0.1959835 0.423710797166793
+"33" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs8192675" 0.0577132727272727 0.193455181818182 0.765452144473091
+"34" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs837763" -0.0672307647058823 0.114461235294118 0.556957179758666
+"35" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs857691" -0.0157881052631579 0.116391473684211 0.892100680793684
+"36" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs9818758" 0.0100573333333333 0.211558 0.962083355725255
+"37" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "rs9914988" -0.115400846153846 0.185504076923077 0.533880510463193
+"38" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "All - Inverse variance weighted" 0.0123395521721101 0.0306413194671301 0.68716190284068
+"39" "Glycated haemoglobin" "Alcohol drinks per week" "noUpsh" "0RwtfR" NA "All - MR Egger" 0.109909691005716 0.0506175822877213 0.0367675790419919

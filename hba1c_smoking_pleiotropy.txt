@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+2XAmJR	8liILp	Smoking initiation	Glycated haemoglobin	-0.001865755	0.001931896	0.340788649

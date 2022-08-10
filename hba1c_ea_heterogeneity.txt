@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+FCyQ4Q	W4jT9u	Educational attainment	Educational attainment	MR Egger	249.48	38.00	0.00
+FCyQ4Q	W4jT9u	Educational attainment	Educational attainment	Inverse variance weighted	249.64	39.00	0.00

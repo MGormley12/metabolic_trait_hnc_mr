@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+2XAmJR	8liILp	Smoking initiation	Glycated haemoglobin	MR Egger	91.43	35.00	0.00
+2XAmJR	8liILp	Smoking initiation	Glycated haemoglobin	Inverse variance weighted	93.86	36.00	0.00

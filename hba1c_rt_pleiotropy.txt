@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+kjlvIY	MCLiHx	Risk tolerance	Glycated haemoglobin	0.000	0.000781126	0.92330872

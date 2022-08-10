@@ -1,0 +1,43 @@
+"exposure" "outcome" "id.exposure" "id.outcome" "samplesize" "SNP" "b" "se" "p"
+"1" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs1046896" 0.163571428571429 0.0664285714285714 0.0138023895253792
+"2" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs10774625" 0.296666666666667 0.19 0.118428574524212
+"3" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs10830963" -0.0855 0.096 0.373130382664481
+"4" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs11248914" -0.247857142857143 0.129285714285714 0.0552217901295549
+"5" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs11558471" -0.0273333333333333 0.121333333333333 0.82176556065725
+"6" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs11603334" 1.26083333333333 0.193333333333333 6.95837170069938e-11
+"7" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs11619319" 0.104444444444444 0.227777777777778 0.646566984365672
+"8" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs11708067" -0.235384615384615 0.154615384615385 0.127911874878751
+"9" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs11964178" -0.95 0.171 2.76730179155376e-08
+"10" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs12621844" -0.468 0.175 0.00748886187781725
+"11" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs13134327" -0.129230769230769 0.141538461538462 0.361219675214084
+"12" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs1467311" -0.138888888888889 0.198888888888889 0.484974579388341
+"13" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs1558902" 0.271 0.173 0.117237693471454
+"14" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs174577" 0.11375 0.2225 0.609185844822392
+"15" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs17509001" -0.0872222222222222 0.135555555555556 0.519936933984023
+"16" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs17533903" -0.143333333333333 0.14 0.305925251124323
+"17" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs17747324" -0.153333333333333 0.136666666666667 0.261883181151682
+"18" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs1800562" 0.08 0.08325 0.336571797248546
+"19" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs2191349" 0.00555555555555556 0.188888888888889 0.976536189986223
+"20" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs2375278" -0.332727272727273 0.206363636363636 0.106889104086075
+"21" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs2383208" -0.150714285714286 0.159285714285714 0.344052531828497
+"22" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs267738" 0.222727272727273 0.187272727272727 0.234313615309043
+"23" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs282587" -0.0152631578947368 0.136842105263158 0.911189367966165
+"24" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs3782123" -0.0638461538461538 0.149230769230769 0.668771215613043
+"25" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs4607517" -0.235806451612903 0.0729032258064516 0.00121850256292264
+"26" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs4737009" -0.115714285714286 0.0957142857142857 0.226680048143437
+"27" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs4745982" 0.0665263157894737 0.0343157894736842 0.0525439334422394
+"28" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs4783565" 0.63 0.212222222222222 0.00299172994634925
+"29" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs4820268" -0.180625 0.1075 0.0929120769986255
+"30" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs560887" -0.1075 0.0660714285714286 0.103731357788653
+"31" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs579459" -0.590909090909091 0.190909090909091 0.0019665496444848
+"32" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs592423" 0.0722222222222222 0.19 0.703858597460266
+"33" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs6474359" -0.247954545454545 0.106136363636364 0.0194814226912715
+"34" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs7040409" -0.118571428571429 0.128214285714286 0.355074588096772
+"35" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs7616006" -0.234 0.173 0.176183082929416
+"36" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs8192675" 0.868181818181818 0.170909090909091 3.77857817670487e-07
+"37" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs837763" -0.201176470588235 0.102352941176471 0.0493544021361995
+"38" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs857691" 0.105789473684211 0.102631578947368 0.302649050526602
+"39" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs9818758" 1.47666666666667 0.186666666666667 2.55916258836641e-15
+"40" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "rs9914988" -0.0246153846153846 0.163846153846154 0.880579416957962
+"41" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "All - Inverse variance weighted" -0.0111283506062576 0.0439874276688924 0.800276445273753
+"42" "Educational attainment" "Educational attainment" "FCyQ4Q" "W4jT9u" NA "All - MR Egger" -0.00069743658402302 0.0801246524271538 0.993100523687605

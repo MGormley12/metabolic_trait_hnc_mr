@@ -1,0 +1,43 @@
+"exposure" "outcome" "id.exposure" "id.outcome" "samplesize" "SNP" "b" "se" "p"
+"1" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs1046896" 0.0232142857142857 0.0807142857142857 0.773644815054628
+"2" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs10774625" 0.531111111111111 0.234444444444444 0.0234879700020715
+"3" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs10830963" 0.0685 0.117 0.558231675387533
+"4" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs11248914" 0.17 0.158571428571429 0.283687661732889
+"5" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs11558471" 0.132 0.15 0.378859309553424
+"6" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs11603334" 0.146666666666667 0.24 0.541126024471668
+"7" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs11619319" -0.161111111111111 0.281111111111111 0.566561733690178
+"8" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs11708067" 0.503846153846154 0.187692307692308 0.00726544152306233
+"9" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs11964178" -0.114 0.211 0.589000942465157
+"10" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs12621844" -0.249 0.216 0.249001607782638
+"11" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs13134327" -0.0661538461538462 0.173076923076923 0.702296540001619
+"12" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs1467311" -0.07 0.245555555555556 0.775592142677196
+"13" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs1558902" -0.451 0.213 0.0342283825822445
+"14" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs174577" 0.1725 0.27375 0.52860496262577
+"15" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs17509001" 0.0983333333333333 0.165 0.551202218771268
+"16" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs17533903" -0.00133333333333333 0.172666666666667 0.993838790491811
+"17" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs17747324" -0.0566666666666667 0.166666666666667 0.733856527927944
+"18" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs1800562" -0.175 0.0985 0.0756258854009042
+"19" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs2191349" -0.148888888888889 0.233333333333333 0.523411686170748
+"20" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs2375278" -0.174545454545455 0.255454545454545 0.494433706680132
+"21" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs2383208" -0.324285714285714 0.195714285714286 0.0975327574622228
+"22" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs267738" 0.219090909090909 0.23 0.340808404066387
+"23" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs282587" -0.293684210526316 0.168947368421053 0.0821548392053623
+"24" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs3782123" 0.234615384615385 0.182307692307692 0.1981222323445
+"25" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs4607517" -0.0290322580645161 0.0887096774193548 0.743461618132436
+"26" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs4737009" 0.0976190476190476 0.117142857142857 0.404656761927286
+"27" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs4745982" 0.0176842105263158 0.0411578947368421 0.667437514066978
+"28" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs4783565" -0.423333333333333 0.261111111111111 0.104958332074319
+"29" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs4820268" -0.065625 0.13125 0.617075077451974
+"30" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs560887" -0.00464285714285714 0.0817857142857143 0.954729559854265
+"31" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs579459" -0.0736363636363636 0.236363636363636 0.755391308510222
+"32" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs592423" -0.0566666666666667 0.234444444444444 0.809007855202214
+"33" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs6474359" 0.0075 0.125909090909091 0.952500671509059
+"34" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs7040409" 0.141071428571429 0.159642857142857 0.376874971372245
+"35" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs7616006" -0.063 0.212 0.766336868424403
+"36" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs8192675" 0.321818181818182 0.21 0.125407103635138
+"37" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs837763" 0.0888235294117647 0.124705882352941 0.476301218736375
+"38" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs857691" -0.293157894736842 0.126842105263158 0.0208216271051227
+"39" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs9818758" 0.0825 0.231666666666667 0.72175436345287
+"40" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "rs9914988" -0.0423076923076923 0.2 0.83246712321548
+"41" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "All - Inverse variance weighted" -0.000910579945373791 0.0235149954746452 0.969110938270163
+"42" "Glycated haemoglobin" "Risk tolerance" "kjlvIY" "MCLiHx" NA "All - MR Egger" 0.00250160957683228 0.042510602489668 0.953382575383428

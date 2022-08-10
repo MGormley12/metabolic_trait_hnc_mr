@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+noUpsh	0RwtfR	Alcohol drinks per week	Glycated haemoglobin	-0.002188746	0.000932442	0.024692927

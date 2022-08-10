@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+FCyQ4Q	W4jT9u	Educational attainment	Educational attainment	-0.000228438	0.001458524	0.876371433
