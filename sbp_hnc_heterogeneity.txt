@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+ddN0Vx	7oHMil	Oral and oropharyngeal cancer	Systolic blood pressure	MR Egger	94.80712256	81	0.139995038
+ddN0Vx	7oHMil	Oral and oropharyngeal cancer	Systolic blood pressure	Inverse variance weighted	95.78934673	82	0.141610418

@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+ksBgue	1SnC2z	Oropharyngeal cancer	WHR	MR Egger	176	0.175306529	0.446619807	1.191611425	0.496551392	2.859598846	0.695155566
+ksBgue	1SnC2z	Oropharyngeal cancer	WHR	Weighted median	176	-0.132504901	0.273713377	0.875898641	0.512229188	1.497763984	0.62831424
+ksBgue	1SnC2z	Oropharyngeal cancer	WHR	Inverse variance weighted	176	-0.192264183	0.166934033	0.825088866	0.594844717	1.144452689	0.249428965
+ksBgue	1SnC2z	Oropharyngeal cancer	WHR	Weighted mode	176	-0.075599579	0.462932955	0.927187397	0.374206247	2.297333295	0.870466201

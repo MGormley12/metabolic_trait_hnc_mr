@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+cGVCgr	O1cTGs	Oral and oropharyngeal cancer	Waist Circumference	MR Egger	48.63045171	41	0.192689109
+cGVCgr	O1cTGs	Oral and oropharyngeal cancer	Waist Circumference	Inverse variance weighted	50.3459175	42	0.176667647

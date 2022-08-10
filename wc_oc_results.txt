@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+JTSkvF	g3PG0a	Oral cancer	Waist circumference || id:ieu-a-60	MR Egger	43	-0.612063515	0.600881531	0.542230812	0.166995015	1.760616946	0.314361764
+JTSkvF	g3PG0a	Oral cancer	Waist circumference || id:ieu-a-60	Weighted median	43	-0.413776157	0.309835876	0.661148928	0.360214902	1.213492007	0.181722948
+JTSkvF	g3PG0a	Oral cancer	Waist circumference || id:ieu-a-60	Inverse variance weighted	43	-0.201663361	0.219611645	0.81737004	0.53147337	1.25705975	0.358476156
+JTSkvF	g3PG0a	Oral cancer	Waist circumference || id:ieu-a-60	Weighted mode	43	-0.396982107	0.372043753	0.672346056	0.324267053	1.394064596	0.292053208

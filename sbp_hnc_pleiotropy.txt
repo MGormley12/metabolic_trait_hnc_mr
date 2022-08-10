@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+ddN0Vx	7oHMil	Oral and oropharyngeal cancer	Systolic blood pressure	-0.014272324	0.015579997	0.362350953

@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+r923KE	up5Vai	Oral and oropharyngeal cancer	Type 2 diabetes	MR Egger	328.2074384	252	0.000869862
+r923KE	up5Vai	Oral and oropharyngeal cancer	Type 2 diabetes	Inverse variance weighted	328.2390728	253	0.001000828

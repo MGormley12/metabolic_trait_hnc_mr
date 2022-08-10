@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+Upuw9X	xTLaeT	Oropharyngeal cancer	Type 2 diabetes	MR Egger	254	-0.000227508	0.110245475	0.999772518	0.805486659	1.240920724	0.99835508
+Upuw9X	xTLaeT	Oropharyngeal cancer	Type 2 diabetes	Weighted median	254	-0.112164029	0.106716956	0.89389762	0.725184436	1.1018617	0.293239185
+Upuw9X	xTLaeT	Oropharyngeal cancer	Type 2 diabetes	Inverse variance weighted	254	-0.063947399	0.057377753	0.938054341	0.838276069	1.049709014	0.26506554
+Upuw9X	xTLaeT	Oropharyngeal cancer	Type 2 diabetes	Weighted mode	254	0.018556995	0.123642418	1.018730246	0.799489289	1.298092831	0.88081635

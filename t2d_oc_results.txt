@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+0CbIKw	GWzF72	Oral cancer	Type 2 diabetes	MR Egger	254	-0.130995615	0.107569191	0.877221621	0.710468101	1.083113754	0.224446586
+0CbIKw	GWzF72	Oral cancer	Type 2 diabetes	Weighted median	254	-0.168648421	0.08249075	0.844805867	0.718686318	0.993057658	0.040908863
+0CbIKw	GWzF72	Oral cancer	Type 2 diabetes	Inverse variance weighted	254	-0.061136181	0.05584378	0.940695126	0.84316721	1.049503954	0.273616739
+0CbIKw	GWzF72	Oral cancer	Type 2 diabetes	Weighted mode	254	-0.196588079	0.110366559	0.821528969	0.661724128	1.019926307	0.076074742

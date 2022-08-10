@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+az72ef	JOHV9U	Oropharyngeal cancer	Systolic blood pressure	MR Egger	83	0.032634022	0.087143589	1.033172351	0.870952871	1.22560605	0.709021666
+az72ef	JOHV9U	Oropharyngeal cancer	Systolic blood pressure	Weighted median	83	-0.008605421	0.029828841	0.991431499	0.935129787	1.05112299	0.772969142
+az72ef	JOHV9U	Oropharyngeal cancer	Systolic blood pressure	Inverse variance weighted	83	-0.009265169	0.020441906	0.990777621	0.95186572	1.031280225	0.650373151
+az72ef	JOHV9U	Oropharyngeal cancer	Systolic blood pressure	Weighted mode	83	-0.004870516	0.065155343	0.995141326	0.875837255	1.13069666	0.940593812

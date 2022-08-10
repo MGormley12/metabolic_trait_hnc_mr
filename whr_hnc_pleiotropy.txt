@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+AE3WXe	x1ucWE	Oral and oropharyngeal cancer	Waist-to-hip ratio	-0.011437191	0.006431936	0.077119364

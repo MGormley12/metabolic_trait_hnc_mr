@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+kYVO8M	w4oSLw	Oropharyngeal cancer	Waist circumference || id:ieu-a-60	MR Egger	43	-1.187719866	0.597195504	0.304915721	0.094588152	0.982930682	0.053421731
+kYVO8M	w4oSLw	Oropharyngeal cancer	Waist circumference || id:ieu-a-60	Weighted median	43	-0.574723943	0.318390406	0.562860229	0.301565168	1.050557791	0.071060302
+kYVO8M	w4oSLw	Oropharyngeal cancer	Waist circumference || id:ieu-a-60	Inverse variance weighted	43	-0.416923598	0.21908496	0.659071272	0.428986375	1.012561161	0.057037616
+kYVO8M	w4oSLw	Oropharyngeal cancer	Waist circumference || id:ieu-a-60	Weighted mode	43	-0.988288763	0.412038465	0.372213091	0.165980635	0.834691259	0.020979469

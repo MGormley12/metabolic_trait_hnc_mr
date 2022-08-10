@@ -1,0 +1,46 @@
+"exposure" "outcome" "id.exposure" "id.outcome" "samplesize" "SNP" "b" "se" "p"
+"1" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs10132280" -1.61637159090909 1.31859145454545 0.220261904990926
+"2" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs10786712" -2.9549905 1.50362538888889 0.0493860246719915
+"3" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs10840100" -0.242663842105263 1.36715505263158 0.85911921541756
+"4" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs10938397" 0.07491015625 0.767560625 0.922253815258409
+"5" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs11039290" 0.273548727272727 1.23588877272727 0.824829529698078
+"6" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs11165623" -1.54380433333333 1.26365547619048 0.221822162633461
+"7" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs11676272" 0.95698580952381 1.38125980952381 0.488412800674752
+"8" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs13404250" -0.294326619047619 1.26383776190476 0.815852081673338
+"9" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs1421085" -0.744607902777778 0.391274430555556 0.057036322933582
+"10" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs1519480" 0.506137833333333 0.930763633333333 0.58658756068425
+"11" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs16996700" -1.76090127272727 1.33585977272727 0.1874439908587
+"12" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs17066856" -0.588189542857143 1.1808242 0.618401021076823
+"13" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs17381664" 1.99206727272727 1.30756086363636 0.127633986304221
+"14" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs17724992" 1.3474570952381 1.44545352380952 0.351231273638693
+"15" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs1928295" 4.51166972222222 1.47344772222222 0.00219877013838836
+"16" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs2278076" -0.43934225 1.27649529166667 0.730712041224884
+"17" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs2287019" -0.427276484848485 0.987864757575757 0.665359679843607
+"18" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs2307111" -1.27932184 1.0888968 0.240043181011699
+"19" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs2325036" 0.176517238095238 1.20213447619048 0.883261061562474
+"20" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs2357760" -1.71898852631579 1.48106505263158 0.245786907531587
+"21" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs2531992" 0.443384148148148 1.2768027037037 0.728395032870722
+"22" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs3127553" 0.268976090909091 1.21015018181818 0.824106271055404
+"23" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs3800229" -1.44999913043478 1.25782234782609 0.248998513666369
+"24" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs4234589" 1.291967625 1.2269521875 0.292345858754033
+"25" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs4788099" -1.32345194117647 0.821969235294118 0.107376219510651
+"26" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs4883723" -1.08046582142857 1.31005139285714 0.409513133252492
+"27" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs4985155" 1.14392063157895 1.47165410526316 0.436980233686891
+"28" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs543874" -0.132201931818182 0.715333863636364 0.853376879344774
+"29" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs6440003" -2.23247552380952 1.30710723809524 0.0876453767543381
+"30" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs6545714" -2.29126831818182 1.24387963636364 0.065470207745499
+"31" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs6567160" -0.44082262 0.62197828 0.478484107295534
+"32" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs6864049" 0.497076789473684 1.34405563157895 0.711506557770755
+"33" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs7138803" -1.91470603571429 1.00662107142857 0.0571565118728507
+"34" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs7144011" -0.03439390625 0.90137096875 0.969562244708839
+"35" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs7239883" 0.773239421052632 1.38473005263158 0.576568235980446
+"36" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs749671" 0.03501225 1.34425455 0.979220769236554
+"37" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs7531118" -0.638810851851852 1.01806844444444 0.530348977737515
+"38" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs7550711" -0.247349543859649 1.36490850877193 0.85619442298985
+"39" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs7649970" 0.206828814814815 1.41629603703704 0.883893745747046
+"40" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs7903146" 1.33299222727273 1.33025922727273 0.316317277889633
+"41" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs806794" 3.30844409090909 1.33112654545455 0.0129388958306966
+"42" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs929641" -0.814714263157895 1.36731894736842 0.551276772728444
+"43" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "rs943005" -0.138836743589744 0.844953025641026 0.86948476961083
+"44" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "All - Inverse variance weighted" -0.320616268759078 0.173989254082658 0.0653675595452918
+"45" "Waist Circumference" "Oral and oropharyngeal cancer" "cGVCgr" "O1cTGs" NA "All - MR Egger" -0.852632206597468 0.475030889964082 0.0800444320748772

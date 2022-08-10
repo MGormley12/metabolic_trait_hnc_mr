@@ -1,0 +1,2 @@
+id.exposure	id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+1	r923KE	up5Vai	Oral and oropharyngeal cancer	Type 2 diabetes	0.000660189	0.004236064	0.876276393

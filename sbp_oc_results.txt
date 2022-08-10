@@ -1,0 +1,5 @@
+id.exposure	id.outcome	outcome	exposure	method	nsnp	b	se	or	or_lci95	or_uci95	pval
+WLydmq	kw3Gm8	Oral cancer	Systolic blood pressure	MR Egger	83	0.090591109	0.10077761	1.094821252	0.89858587	1.333910995	0.371359251
+WLydmq	kw3Gm8	Oral cancer	Systolic blood pressure	Weighted median	83	-0.013083903	0.028486668	0.987001319	0.933403429	1.043676907	0.646019346
+WLydmq	kw3Gm8	Oral cancer	Systolic blood pressure	Inverse variance weighted	83	0.00799022	0.023608476	1.008022227	0.962441117	1.055762055	0.735026275
+WLydmq	kw3Gm8	Oral cancer	Systolic blood pressure	Weighted mode	83	-0.046124506	0.065101469	0.954923061	0.840529369	1.084885415	0.480643027

@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+AE3WXe	x1ucWE	Oral and oropharyngeal cancer	Waist-to-hip ratio	MR Egger	209.2403526	174	0.03515141
+AE3WXe	x1ucWE	Oral and oropharyngeal cancer	Waist-to-hip ratio	Inverse variance weighted	213.0426976	175	0.026347237

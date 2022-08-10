@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+cGVCgr	O1cTGs	Oral and oropharyngeal cancer	Waist Circumference	0.015903111	0.013223709	0.236022343

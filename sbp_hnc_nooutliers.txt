@@ -1,0 +1,5 @@
+or_results$outcome	or_results$nsnp	or_results$method	or_results$b	or_results$se	or_results$or	or_results$or_lci95	or_results$or_uci95	or_results$pval
+Oral and oropharyngeal cancer	78	IVW	-0.01	0.02	0.99	0.96	1.02	0.46
+Oral and oropharyngeal cancer	78	MR Egger	-0.01	0.07	0.99	0.87	1.14	0.94
+Oral and oropharyngeal cancer	78	Weighted median	-0.02	0.02	0.98	0.94	1.03	0.49
+Oral and oropharyngeal cancer	78	Weighted mode	-0.02	0.05	0.98	0.88	1.08	0.63
