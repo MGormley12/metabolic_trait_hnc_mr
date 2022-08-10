@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+y6KSBA	Q02UNU	Educational attainment	Waist Circumference	-0.004371504	0.002398114	0.075277226

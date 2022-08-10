@@ -1,0 +1,46 @@
+"exposure" "outcome" "id.exposure" "id.outcome" "samplesize" "SNP" "b" "se" "p"
+"1" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs10132280" 0.0158943636363636 0.0954999090909091 0.867815981176413
+"2" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs10786712" 0.143529111111111 0.110407 0.193600934678927
+"3" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs10840100" -0.457499631578947 0.106655157894737 1.79058187165669e-05
+"4" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs10938397" -0.1672798125 0.06096015625 0.00606799386011369
+"5" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs11039290" -0.414279454545455 0.0965794090909091 1.79058456404592e-05
+"6" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs11165623" 0.0477338095238095 0.0920343333333333 0.604003300002327
+"7" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs11676272" 0.194621095238095 0.0919498095238095 0.0342936915140057
+"8" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs13404250" -0.0926521428571428 0.0986554761904762 0.347654504126389
+"9" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs1421085" -0.138228819444444 0.027319875 4.20041750471754e-07
+"10" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs1519480" 0.173131666666667 0.0687052 0.0117381222391934
+"11" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs16996700" 0.00323636363636364 0.0975475909090909 0.973533216901891
+"12" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs17066856" -0.0243487714285714 0.0948493142857143 0.797402619091423
+"13" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs17381664" -0.129728772727273 0.0893089545454546 0.146339246619565
+"14" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs17724992" 0.025118 0.104206952380952 0.809524440577697
+"15" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs1928295" 0.0851402777777778 0.108041166666667 0.430675925015127
+"16" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs2278076" -0.0465259583333333 0.100107916666667 0.642104745132899
+"17" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs2287019" 0.0994107878787879 0.0745115454545455 0.182149383412543
+"18" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs2307111" -0.07318616 0.0789646 0.354018753311906
+"19" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs2325036" 0.288115666666667 0.0947318571428571 0.00235495663475237
+"20" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs2357760" 0.141822736842105 0.108138842105263 0.189693123006978
+"21" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs2531992" 0.167844444444444 0.0994224444444444 0.0913738589892834
+"22" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs3127553" 0.0148205 0.0915612272727273 0.871412664550497
+"23" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs3800229" 0.128132695652174 0.0927135652173913 0.166963261111771
+"24" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs4234589" -0.10980375 0.0887710625 0.216112403567314
+"25" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs4788099" -0.389186176470588 0.0580164411764706 1.97033106385138e-11
+"26" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs4883723" -0.0238285 0.0992854285714286 0.810330278913343
+"27" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs4985155" 0.0623225263157895 0.107838 0.563313189644141
+"28" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs543874" -0.147929181818182 0.0546016590909091 0.00674368568932922
+"29" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs6440003" -0.038776380952381 0.0924295714285714 0.674833555044964
+"30" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs6545714" 0.0173843636363636 0.0897725454545455 0.846450728051437
+"31" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs6567160" -0.10138344 0.04556848 0.0260907093465335
+"32" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs6864049" -0.0583928421052632 0.101803263157895 0.566248548889248
+"33" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs7138803" -0.347161535714286 0.0711611785714286 1.06882521779276e-06
+"34" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs7144011" -0.28370534375 0.07325240625 0.0001075112112241
+"35" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs7239883" -0.196796421052632 0.104596105263158 0.0599054308030929
+"36" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs749671" -0.2177531 0.09991195 0.0292982547768474
+"37" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs7531118" -0.285879185185185 0.0716941851851852 6.67786134797497e-05
+"38" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs7550711" -0.00514987719298246 0.102588070175439 0.959963352792046
+"39" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs7649970" 0.00565348148148148 0.108400222222222 0.95840615996736
+"40" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs7903146" 0.0603611363636364 0.0970290909090909 0.533880594821111
+"41" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs806794" 0.0759523181818182 0.0978910454545455 0.437816139753317
+"42" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs929641" -0.214261842105263 0.102967684210526 0.0374462717509058
+"43" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "rs943005" -0.131362128205128 0.0658458974358974 0.0460436040043093
+"44" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "All - Inverse variance weighted" -0.0906827144070505 0.024053096323341 0.000163178453293709
+"45" "Waist Circumference" "Alcohol drinks per week" "yjGr7M" "Vrny0q" NA "All - MR Egger" -0.199885574990447 0.0627212312309496 0.00275066796469419

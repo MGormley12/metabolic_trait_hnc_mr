@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+ZXDJdL	5gqSax	Risk tolerance	Waist Circumference	MR Egger	149.70	43.00	0.00
+ZXDJdL	5gqSax	Risk tolerance	Waist Circumference	Inverse variance weighted	155.99	44.00	0.00

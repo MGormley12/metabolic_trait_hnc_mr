@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+poboWh	MSqR9Q	Educational attainment	Waist-to-hip ratio	-0.003543359	0.000960162	0.00029085

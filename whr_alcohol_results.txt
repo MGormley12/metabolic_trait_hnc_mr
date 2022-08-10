@@ -1,0 +1,5 @@
+or_results$outcome	or_results$nsnp	or_results$method	or_results$b	or_results$se	or_results$or	or_results$or_lci95	or_results$or_uci95	or_results$pval
+Alcohol drinks per week	174	MR Egger	-0.068084231	0.042663603	0.93	0.86	1.02	0.11
+Alcohol drinks per week	174	Weighted median	-0.021482025	0.017145147	0.98	0.95	1.01	0.21
+Alcohol drinks per week	174	Inverse variance weighted	-0.026780189	0.016751585	0.97	0.94	1.01	0.11
+Alcohol drinks per week	174	Weighted mode	-0.024541805	0.02383161	0.98	0.93	1.02	0.30

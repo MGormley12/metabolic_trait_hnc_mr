@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+poboWh	MSqR9Q	Educational attainment	Waist-to-hip ratio	MR Egger	1335.57	194.00	0.00
+poboWh	MSqR9Q	Educational attainment	Waist-to-hip ratio	Inverse variance weighted	1429.33	195.00	0.00

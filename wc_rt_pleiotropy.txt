@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+ZXDJdL	5gqSax	Risk tolerance	Waist Circumference	0.002323767	0.00172884	0.185958804

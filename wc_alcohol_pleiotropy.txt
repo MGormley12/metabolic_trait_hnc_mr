@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+yjGr7M	Vrny0q	Alcohol drinks per week	Waist Circumference	0.003294499	0.001756048	0.067774772

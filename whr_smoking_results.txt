@@ -1,0 +1,5 @@
+or_results$outcome	or_results$nsnp	or_results$method	or_results$b	or_results$se	or_results$or	or_results$or_lci95	or_results$or_uci95	or_results$pval
+Smoking initiation	174	MR Egger	0.017769396	0.088328233	1.02	0.86	1.21	0.84
+Smoking initiation	174	Weighted median	0.094706113	0.032304422	1.10	1.03	1.17	0.00
+Smoking initiation	174	Inverse variance weighted	0.18031902	0.034913518	1.20	1.12	1.28	0.00
+Smoking initiation	174	Weighted mode	0.069646606	0.044890232	1.07	0.98	1.17	0.12

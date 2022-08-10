@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+vP59hF	EVPVsG	Risk tolerance	Waist-to-hip ratio	0.001428669	0.00069957	0.04246328

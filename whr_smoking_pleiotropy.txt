@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+Ay47KI	nUcfSu	Smoking initiation	Waist-to-hip ratio	0.003128751	0.001564152	0.047042866

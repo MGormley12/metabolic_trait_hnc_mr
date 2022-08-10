@@ -1,0 +1,5 @@
+or_results$outcome	or_results$nsnp	or_results$method	or_results$b	or_results$se	or_results$or	or_results$or_lci95	or_results$or_uci95	or_results$pval
+Educational attainment	26	MR Egger	-0.04	0.06	0.96	0.85	1.07	0.45
+Educational attainment	26	Weighted median	-0.08	0.02	0.93	0.89	0.97	0.00
+Educational attainment	26	Inverse variance weighted	-0.06	0.02	0.95	0.91	0.98	0.00
+Educational attainment	26	Weighted mode	-0.09	0.03	0.92	0.86	0.97	0.01

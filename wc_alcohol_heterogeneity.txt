@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval	
+1	yjGr7M	Vrny0q	Alcohol drinks per week	Waist Circumference	MR Egger	163.17	41.00	0.00
+2	yjGr7M	Vrny0q	Alcohol drinks per week	Waist Circumference	Inverse variance weighted	177.18	42.00	0.00

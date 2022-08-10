@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+89r7bP	Dx3ttE	Alcohol drinks per week	Waist-to-hip ratio	0.00079577	0.000755996	0.293995157

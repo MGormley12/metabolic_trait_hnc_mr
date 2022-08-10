@@ -1,0 +1,2 @@
+id.exposure	id.outcome	outcome	exposure	egger_intercept	se	pval
+NWjMqc	pdtbwA	Smoking initiation	Waist Circumference	0.010250358	0.003847796	0.010989587

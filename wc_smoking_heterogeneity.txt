@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+NWjMqc	pdtbwA	Smoking initiation	Waist Circumference	MR Egger	231.18	41.00	0.00
+NWjMqc	pdtbwA	Smoking initiation	Waist Circumference	Inverse variance weighted	271.19	42.00	0.00

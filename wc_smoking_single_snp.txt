@@ -1,0 +1,46 @@
+"exposure" "outcome" "id.exposure" "id.outcome" "samplesize" "SNP" "b" "se" "p"
+"1" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs10132280" -0.0158634545454545 0.176260818181818 0.928287300899695
+"2" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs10786712" 1.42290322222222 0.203479611111111 2.69349684290805e-12
+"3" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs10840100" -0.127626736842105 0.196698263157895 0.516438395896984
+"4" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs10938397" -0.0996385 0.11231553125 0.375008804984332
+"5" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs11039290" -0.352115318181818 0.178529545454545 0.0485744138357113
+"6" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs11165623" 0.734132047619048 0.169314904761905 1.45166678360265e-05
+"7" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs11676272" 0.671412333333333 0.16944919047619 7.42241984742116e-05
+"8" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs13404250" -0.0666113333333333 0.181968285714286 0.714320211470622
+"9" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs1421085" 0.0942964583333333 0.0502601805555556 0.0606324443417442
+"10" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs1519480" 0.728433833333333 0.126421533333333 8.31504419677782e-09
+"11" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs16996700" 0.391490090909091 0.180197909090909 0.0298137328461001
+"12" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs17066856" 0.428093 0.175060228571429 0.0144689924163277
+"13" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs17381664" 0.714822727272727 0.164424863636364 1.3775292192149e-05
+"14" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs17724992" 0.884441047619048 0.193000857142857 4.59283250842011e-06
+"15" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs1928295" 0.629998777777778 0.199223111111111 0.00156540268647942
+"16" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs2278076" 0.54520275 0.184841041666667 0.00318210021445576
+"17" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs2287019" -0.121824666666667 0.137324424242424 0.375008717338992
+"18" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs2307111" 0.18482436 0.145662 0.204491797619327
+"19" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs2325036" 1.17434685714286 0.174673571428571 1.77905608805322e-11
+"20" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs2357760" 0.709144842105263 0.198990842105263 0.000365655597890803
+"21" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs2531992" 0.297336962962963 0.184400555555556 0.106863713343301
+"22" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs3127553" 0.679654818181818 0.168342818181818 5.4063941818924e-05
+"23" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs3800229" 0.786747652173913 0.170870652173913 4.13763500095712e-06
+"24" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs4234589" 0.2828989375 0.1636046875 0.0837801830766779
+"25" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs4788099" -0.0887990882352941 0.106516323529412 0.404468953396006
+"26" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs4883723" -0.20863225 0.182982607142857 0.254213273421536
+"27" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs4985155" 0.131644421052632 0.198687368421053 0.507605565590458
+"28" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs543874" 0.278048113636364 0.100266704545455 0.00555275819480647
+"29" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs6440003" -0.0813217619047619 0.170309714285714 0.633010830465685
+"30" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs6545714" 0.679856590909091 0.165376545454545 3.94015113726759e-05
+"31" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs6567160" 0.0476593 0.08385838 0.569810370480201
+"32" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs6864049" 0.368252526315789 0.187678842105263 0.0497459619169013
+"33" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs7138803" -0.135662321428571 0.131149714285714 0.300945438328263
+"34" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs7144011" -0.32615165625 0.13542709375 0.0160261665519716
+"35" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs7239883" 0.0187493157894737 0.192770157894737 0.922517901206268
+"36" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs749671" 0.6151371 0.18380735 0.000817972506363136
+"37" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs7531118" 0.110074888888889 0.131942185185185 0.404131064742744
+"38" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs7550711" 0.398636 0.185865 0.0319719622988042
+"39" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs7649970" -0.346031037037037 0.199781111111111 0.0832645147030253
+"40" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs7903146" -0.2056695 0.179012318181818 0.250592039765052
+"41" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs806794" 0.490438272727273 0.180410636363636 0.00655874928592765
+"42" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs929641" 0.194522157894737 0.189834157894737 0.305507009958015
+"43" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "rs943005" -0.00509364102564103 0.121071282051282 0.966441761759059
+"44" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "All - Inverse variance weighted" 0.209539517490363 0.0547974484928942 0.000131361545611782
+"45" "Waist Circumference" "Smoking initiation" "NWjMqc" "pdtbwA" NA "All - MR Egger" -0.129916982719903 0.137329722438378 0.349679538110166

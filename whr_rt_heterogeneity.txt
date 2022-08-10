@@ -1,0 +1,3 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+vP59hF	EVPVsG	Risk tolerance	Waist-to-hip ratio	MR Egger	486.63	197.00	0.00
+vP59hF	EVPVsG	Risk tolerance	Waist-to-hip ratio	Inverse variance weighted	496.94	198.00	0.00
