@@ -1,5 +1,9 @@
 # metabolic_trait_hnc_mr
-The effect of metabolic traits on oral and oropharyngeal cancer risk: a Mendelian randomization analysis
+Evaluating the effect of metabolic traits on oral and oropharyngeal cancer risk: a Mendelian randomization analysis
+
+This work has now been published in eLife: Mark Gormley, Tom Dudding, Steven J Thomas, Jessica Tyrrell, Andrew R Ness, Miranda Pring, Danny Legge, George Davey Smith, Rebecca C Richmond, Emma E Vincent, Caroline Bull (2023) Evaluating the effect of metabolic traits on oral and oropharyngeal cancer risk using Mendelian randomization eLife 12:e82674
+
+Available at: https://doi.org/10.7554/eLife.82674
 
 metabolic_trait_mr.R contains all the necessary code to run the primary two-sample MR analyses or instrument-risk factor analyses.
 
